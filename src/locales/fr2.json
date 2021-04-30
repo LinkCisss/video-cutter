@@ -1,0 +1,67 @@
+{
+  "language": "Français",
+  "title": "Video Cutter",
+  "commons": {
+    "title": "Coupez n'importe quelle vidéo et téléchargez-la sous forme de fichier vidéo ou audio",
+    "descriptionShort": "Découpez et téléchargez une vidéo",
+    "description": "Video Cutter vous fournit un moyen rapide et simple de découper et télécharger n'importe quelle vidéo !",
+    "cut": "Découper",
+    "about": "A propos",
+    "beta": "beta",
+    "retry": "Réessayer",
+    "example": "Exemple",
+    "madeBy": "Créé par",
+    "or": "ou",
+    "restart": "recommencer",
+    "changeLanguage": "Changer la langue",
+    "socialIntensiveTitle": "Vous aimez Video Cutter ?",
+    "socialIntensiveContent": "❤️",
+    "serverStatus": "Statut du serveur",
+    "connected": "Connecté",
+    "connection": "Connexion...",
+    "offline": "Hors ligne",
+    "connectionToTheServer": "Connexion au serveur...",
+    "selectFile": "Sélectionner un fichier",
+    "orDropFile": "Ou déposez un fichier",
+    "dropFileHere": "Déposez votre fichier ici"
+  },
+  "studio": {
+    "cutTitle": "Découper une vidéo",
+    "cutSettings": "Paramètres de découpage",
+    "currentTime": "Timer actuel",
+    "previewMode": "Mode preview",
+    "previewModeDesc": "Lis en boucle sur l'interval sélectionné",
+    "setCutStart": "Définir début",
+    "setCutEnd": "Définir fin",
+    "downloadMp3": "Télécharger en tant que Mp3 (audio seulement)",
+    "start": "Début",
+    "duration": "Durée",
+    "end": "Fin",
+    "cutAndDownload": "Découper et télécharger",
+    "download": "Télécharger",
+    "cut": "Découper",
+    "needToResolveCaptcha": "Vous devez dabord résoudre le captcha",
+    "anErrorHappened": "Une erreur s'est produite",
+    "anotherVideo": "Découper une autre vidéo",
+    "tooLongCut": "La durée du clip ne peut dépassed %maxDuration% secondes",
+    "positionInfo": "position : %position%",
+    "longVideoWarning": "Le traitement des vidéos de plus de 2 minutes peut etre long"
+  },
+  "state": {
+    "idle": "idle",
+    "starting": "Démarrage...",
+    "error": "Erreur",
+    "working": "Découpage...",
+    "done": "Terminé"
+  },
+  "error": {
+    "incidentInProgress": "Incident en cours",
+    "incidentInProgressDesc": "Suite à un soucis technique, notre serveur est momentanement indisponible.\nNous mettons tout en oeuvre pour le rétablir au plus vite.\nVeuilez nous excuser pour la gêne occasionée.\nRéesayez dans quelques minutes !",
+    "serverUnavailable": "Serveur indisponible"
+  },
+  "lang": {
+    "fr": "French",
+    "en": "English",
+    "cn": "简体中文"
+  }
+}

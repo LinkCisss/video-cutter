@@ -1,0 +1,68 @@
+{
+  "language": "简体中文",
+  "title": "Video Cutter",
+  "commons": {
+    "title": "Cut any video and download it as a video or audio file",
+    "descriptionShort": "编辑并下载",
+    "description": "Video Cutter provide you a simple and fast way to cut any video and download it",
+    "cut": "Cut",
+    "about": "About",
+    "beta": "beta",
+    "retry": "Retry",
+    "example": "Example",
+    "madeBy": "Made by",
+    "or": "or",
+    "restart": "restart",
+    "changeLanguage": "更改语言",
+    "socialIntensiveTitle": "You like Video Cutter ?",
+    "socialIntensiveContent": "share ♥♥♥♥♥♥",
+    "serverStatus": "服务 状态",
+    "connected": "已连接",
+    "connection": "连结ing...",
+    "offline": "已下线",
+    "connectionToTheServer": "正在连接..",
+    "selectFile": "选择视频文件以编辑",
+    "orDropFile": "或 拖入文件",
+    "dropFileHere": "文件拖放此区域"
+  },
+  "studio": {
+    "cutTitle": "任意剪",
+    "cutSettings": "编辑设置",
+    "currentTime": "当前时间",
+    "previewMode": "预览模式",
+    "previewModeDesc": "循环播放剪切间隔",
+    "setCutStart": "设置开始时间",
+    "setCutEnd": "设置结束时间",
+    "downloadMp3": "以MP3的格式下载(audio only)",
+    "start": "Start",
+    "duration": "过程",
+    "end": "End",
+    "cutAndDownload": "编辑并下载",
+    "download": "下载",
+    "cut": "Cut the clip",
+    "needToResolveCaptcha": "需先完成验证",
+    "anErrorHappened": "An error happened",
+    "anotherVideo": "Cut another video",
+    "tooLongCut": "视频过长",
+    "positionInfo": "节点 : %position%",
+    "longVideoWarning": "超过2分钟的视频可能需要一段时间才能处理"
+  },
+  "state": {
+    "idle": "空闲",
+    "working": "正在运行...",
+    "starting": "正准备下载...",
+    "downloading": "下载中...",
+    "error": "Error",
+    "done": "完成"
+  },
+  "error": {
+    "incidentInProgress": "正在进行的任务",
+    "incidentInProgressDesc": "由于技术问题，该服务器当前不可用，将很快恢复！\n请几分钟后再试",
+    "serverUnavailable": "Server unavailable"
+  },
+  "lang": {
+    "en": "English",
+    "cn": "简体中文",
+    "fr": "French"
+  }
+}

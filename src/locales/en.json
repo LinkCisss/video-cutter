@@ -1,0 +1,68 @@
+{
+  "language": "English",
+  "title": "Video Cutter",
+  "commons": {
+    "title": "Cut any video and download it as a video or audio file",
+    "descriptionShort": "Cut and download any video",
+    "description": "Video Cutter provide you a simple and fast way to cut any video and download it",
+    "cut": "Cut",
+    "about": "About",
+    "beta": "beta",
+    "retry": "Retry",
+    "example": "Example",
+    "madeBy": "Made by",
+    "or": "or",
+    "restart": "restart",
+    "changeLanguage": "Change language",
+    "socialIntensiveTitle": "You like Video Cutter ?",
+    "socialIntensiveContent": "❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤️",
+    "serverStatus": "Server status",
+    "connected": "Connected",
+    "connection": "Connection...",
+    "offline": "Offline",
+    "connectionToTheServer": "Connecting to the server..",
+    "selectFile": "Select a file",
+    "orDropFile": "Or drop a file",
+    "dropFileHere": "Drop file here"
+  },
+  "studio": {
+    "cutTitle": "Cut any video",
+    "cutSettings": "Cut settings",
+    "currentTime": "Current time",
+    "previewMode": "Preview mode",
+    "previewModeDesc": "Loop on the cut interval",
+    "setCutStart": "Set cut start",
+    "setCutEnd": "Set cut end",
+    "downloadMp3": "Download an an Mp3 file (audio only)",
+    "start": "Start",
+    "duration": "Duration",
+    "end": "End",
+    "cutAndDownload": "Cut and Download",
+    "download": "Download",
+    "cut": "Cut the clip",
+    "needToResolveCaptcha": "You need to resolve the captcha first",
+    "anErrorHappened": "An error happened",
+    "anotherVideo": "Cut another video",
+    "tooLongCut": "The clip length cannot exceed %maxDuration% seconds",
+    "positionInfo": "position : %position%",
+    "longVideoWarning": "Videos longer than 2 min might take a while to process"
+  },
+  "state": {
+    "idle": "Idle",
+    "working": "Working...",
+    "starting": "Starting...",
+    "downloading": "Downloading...",
+    "error": "Error",
+    "done": "Done"
+  },
+  "error": {
+    "incidentInProgress": "Incident in progress",
+    "incidentInProgressDesc": "Due to a technical issue, the server in currently unavailable, it will be back soon !\nPlease try again in  a few minutes",
+    "serverUnavailable": "Server unavailable"
+  },
+  "lang": {
+    "en": "English",
+    "cn": "简体中文",
+    "fr": "French"
+  }
+}
